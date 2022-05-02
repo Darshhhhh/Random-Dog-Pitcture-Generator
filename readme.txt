@@ -1,5 +1,5 @@
 AIM :
-->Fetch Year wise Data of State Wise Natural Gas Production of India from Government APIs.
+->Fetch Data from APIs.
 
 OUTCOME FROM THIS PROJECT :
 ->learnt to work with APIs.
